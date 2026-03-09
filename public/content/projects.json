@@ -30,5 +30,13 @@
     "desc": "Venkovní osvětlení",
     "imageUrl": "https://raw.githubusercontent.com/janik-technika/bncelektro/main/public/content/uploads/projects/1773067828960-vvm3iz.jpg",
     "published": true
+  },
+  {
+    "id": "1773082490498",
+    "title": "Přístavba Střední uměleckoprůmyslové školy Valašské Meziříčí",
+    "subtitle": "2025",
+    "desc": "Elektroinstalace, slaboproudé rozvody",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/bncelektro/main/public/content/uploads/projects/1773082643351-9bce63.jpg",
+    "published": false
   }
 ]
