@@ -14,5 +14,13 @@
     "desc": "Veřejné osvětlení",
     "imageUrl": "https://raw.githubusercontent.com/janik-technika/bncelektro/main/public/content/uploads/projects/1773067471184-w28qqu.jpg",
     "published": false
+  },
+  {
+    "id": "1773067514184",
+    "title": "Knihovna Prusinovice",
+    "subtitle": "2025",
+    "desc": "Elektroinstalace, slaboproudé rozvody, alarm",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/bncelektro/main/public/content/uploads/projects/1773067549406-44shbu.jpg",
+    "published": false
   }
 ]
