@@ -6,7 +6,7 @@
     "desc": "Elektroinstalace, datové rozvody",
     "imageUrl": "https://raw.githubusercontent.com/janik-technika/bncelektro/main/public/content/uploads/projects/1773065739794-vsjvo6.jpg",
     "published": true,
-    "order": 2
+    "order": 1
   },
   {
     "id": "1773067423814",
@@ -15,7 +15,7 @@
     "desc": "Veřejné osvětlení",
     "imageUrl": "https://raw.githubusercontent.com/janik-technika/bncelektro/main/public/content/uploads/projects/1773067471184-w28qqu.jpg",
     "published": true,
-    "order": 3
+    "order": 2
   },
   {
     "id": "1773067514184",
@@ -24,7 +24,7 @@
     "desc": "Elektroinstalace, slaboproudé rozvody, alarm",
     "imageUrl": "https://raw.githubusercontent.com/janik-technika/bncelektro/main/public/content/uploads/projects/1773067549406-44shbu.jpg",
     "published": true,
-    "order": 4
+    "order": 3
   },
   {
     "id": "1773067660590",
@@ -33,7 +33,7 @@
     "desc": "Venkovní osvětlení",
     "imageUrl": "https://raw.githubusercontent.com/janik-technika/bncelektro/main/public/content/uploads/projects/1773067828960-vvm3iz.jpg",
     "published": true,
-    "order": 1
+    "order": 4
   },
   {
     "id": "1773082490498",
