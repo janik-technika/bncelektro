@@ -43,5 +43,14 @@
     "imageUrl": "https://raw.githubusercontent.com/janik-technika/bncelektro/main/public/content/uploads/projects/1773082643351-9bce63.jpg",
     "published": true,
     "order": 5
+  },
+  {
+    "id": "1775844254401",
+    "title": "",
+    "subtitle": "",
+    "desc": "",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/bncelektro/main/public/content/uploads/projects/1775844264403-fp2n92.jpg",
+    "order": 0,
+    "published": true
   }
 ]
