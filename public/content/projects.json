@@ -52,5 +52,14 @@
     "imageUrl": "https://raw.githubusercontent.com/janik-technika/bncelektro/main/public/content/uploads/projects/1775844264403-fp2n92.jpg",
     "order": 0,
     "published": true
+  },
+  {
+    "id": "1776881650514",
+    "title": "Obecní úřad Prusinovice",
+    "subtitle": "2026",
+    "desc": "Elektroinstalace, datové rozvody, alarm",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/bncelektro/main/public/content/uploads/projects/1776881952215-nvq07r.jpg",
+    "order": -1,
+    "published": true
   }
 ]
